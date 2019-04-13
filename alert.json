@@ -1,0 +1,15 @@
+{
+    "show": true,
+    "update": {
+        "lastest": "2.0",
+        "title": "就是更新了证书啊啊啊~!",
+        "message": "更新了app的证书，旧版本的app不会继续优化与支持，所以有些视频不能得到良好的解析",
+        "url": "http://mvipsp.com",
+        "forceList": {
+            "other": false
+        }
+    },
+    "alert": {
+        "show": false
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "iid": "201811061",
+    "source": [
+        {
+            "name": "主力地址",
+            "url": "http://api.bbbbbb.me/jx/?url="
+        },
+        {
+            "name": "备用地址1",
+            "url": "http://app.baiyug.cn:2019/vip/?url=",
+            "Referer":"http://api.baiyug.cn"
+        },
+        {
+            "name": "备用地址2",
+            "url": "http://000o.cc/jx/ty.php?url="
+        },
+        {
+            "name": "备用地址3",
+            "url": "http://zy.1717yun.com/1717yun/?url=",
+            "Referer":"http://app.1717yun.com"
+        }
+    ]
+}
