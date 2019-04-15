@@ -2,20 +2,20 @@
     "iid": "201811061",
     "source": [
         {
-            "name": "微信公众号：知网青年 为您解析",
+            "name": "解析地址1",
             "url": "http://api.bbbbbb.me/jx/?url="
         },
         {
-            "name": "解析地址",
+            "name": "解析地址2",
             "url": "http://app.baiyug.cn:2019/vip/?url=",
             "Referer":"http://api.baiyug.cn"
         },
         {
-            "name": "解析地址",
+            "name": "解析地址3",
             "url": "http://000o.cc/jx/ty.php?url="
         },
         {
-            "name": "解析地址",
+            "name": "解析地址4",
             "url": "http://zy.1717yun.com/1717yun/?url=",
             "Referer":"http://app.1717yun.com"
         }
