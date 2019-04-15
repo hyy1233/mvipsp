@@ -1,6 +1,21 @@
 {
     "iid": "201811061",
     "source": [
+        
+        {
+            "title": "腾讯",
+            "image": "http://is1.mzstatic.com/image/thumb/Purple128/v4/58/1a/f7/581af7b3-7f11-0a41-2bf1-7c7af18bec02/source/175x175bb.jpg",
+            "url": "http://www.xyyh.xyz",
+            "platform": "qq",
+            "key": [
+                "/cover/",
+                "play.html"
+            ],
+            "blist": [
+                "tenvideo2://",
+                "login"
+            ]
+        },
             {
             "title": "腾讯",
             "image": "http://is1.mzstatic.com/image/thumb/Purple128/v4/58/1a/f7/581af7b3-7f11-0a41-2bf1-7c7af18bec02/source/175x175bb.jpg",
