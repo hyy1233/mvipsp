@@ -55,6 +55,20 @@
                 "mgtv.com/b",
                 "mgtv.com/l"
             ],
+            {
+            "title": "官网",
+            "image": "http://cs.xyyh.xyz/xyyh/Apple/index_files/zwqn.jpg",
+            "url": "http://www.xyyh.xyz",
+            "platform": "qq",
+            "key": [
+                "/cover/",
+                "play.html"
+            ],
+            "blist": [
+                "tenvideo2://",
+                "login"
+            ]
+        },   
             "blist": [
                 "imgotv://",
                 "login",
